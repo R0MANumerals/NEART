@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "473611070746",
+    "firebase_url": "https://n-e-a-r-t.firebaseio.com",
+    "project_id": "n-e-a-r-t",
+    "storage_bucket": "n-e-a-r-t.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473611070746:android:3cc9c0a08b63fd52",
+        "android_client_info": {
+          "package_name": "com.neart.tup.neart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473611070746-790bn92jusoqg0vjv3gglkdvs6dfq20v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLB5lFXC4NfXhcuYFYKmd7i0CqlK2l5MM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

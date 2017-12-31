@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">N E A R T</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="City_array">
+        <item>Select City:</item>
+        <item>Caloocan</item>
+        <item>Las Piñas</item>
+        <item>Makati</item>
+        <item>Malabon</item>
+        <item>Mandaluyong</item>
+        <item>Manila</item>
+        <item>Marikina</item>
+        <item>Muntinlupa</item>
+        <item>Navotas</item>
+        <item>Parañaque</item>
+        <item>Pasay</item>
+        <item>Pasig </item>
+        <item>Pateros</item>
+        <item>Quezon</item>
+        <item>San Juan</item>
+        <item>Taguig</item>
+        <item>Valenzuela</item>
+
+    </string-array>
+
+    <string-array name="More">
+        <item>Change Password</item>
+        <item>Contact us</item>
+        <item>Logout</item>
+        <item>About</item>
+    </string-array>
+    <string name="title_activity_tutor__main">Tutor_MainActivity</string>
+</resources>

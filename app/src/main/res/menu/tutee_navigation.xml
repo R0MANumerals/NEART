@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_tutee_profile"
+        android:icon="@drawable/profile"
+        android:title="Profile" />
+
+    <item
+        android:id="@+id/navigation_tutee_message"
+        android:icon="@drawable/message"
+        android:title="Message" />
+
+    <item
+        android:id="@+id/navigation_tutee_search"
+        android:icon="@drawable/search"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/navigation_tutee_notification"
+        android:icon="@drawable/notif"
+        android:title="Notification" />
+
+    <item
+        android:id="@+id/navigation_tutee_more"
+        android:icon="@drawable/more1"
+        android:title="More" />
+
+
+
+
+</menu>
